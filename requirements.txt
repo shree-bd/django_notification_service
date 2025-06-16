@@ -1,0 +1,8 @@
+Django>=3.2.18,<5.0
+celery==5.3.6
+redis==5.0.1
+sendgrid==6.11.0
+python-dotenv==1.0.1
+django-celery-results==2.5.1
+django-celery-beat==2.5.0
+requests==2.31.0 
